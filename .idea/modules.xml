@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AsyncSockets/AsyncSockets.iml" filepath="$PROJECT_DIR$/AsyncSockets/AsyncSockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniChat.iml" filepath="$PROJECT_DIR$/miniChat.iml" />
+    </modules>
+  </component>
+</project>
